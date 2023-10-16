@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    width: 1449px;
+  margin: 0 auto;
+  background: #ecf2f8;
+  padding-top: 300px;
+}
+.grid {
+    display: flex;
+    display: grid;
+    gap: 30px;
+    grid-template-rows: 282px 266px;
+  grid-template-columns: 255px 255px 255px 255px;
+  
+}
+.Daniel_Clifford {
+    display: grid;
+    grid-column: 1/3;
+    grid-row: 1/2;
+    background: url(./“.png) no-repeat, top right, #733FC8;
+    background-position-x: 356px;
+box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.25);
+    border-radius: 8px;
+    padding: 26px 32px 32px 32px;
+}
+.imgandname {
+    display: flex;
+    align-items: center;
+    gap: 17px;
+    margin-bottom: 18px;
+}
+.grid h5 {
+    color: #FFF;
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 13px; /* 100% */
+}
+.grid span {
+    color: #FFF;
+font-size: 11px;
+font-style: normal;
+font-weight: 500;
+line-height: 11px; /* 100% */
+opacity: 0.5;
+}
+.grid h4 {
+    color: #FFF;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-bottom: 16px;
+}
+.grid p {
+    color: #CFCFCF;
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 18px; /* 138.462% */
+opacity: 0.7;
+}
+.Jonathan_Walters {
+    display: grid;
+    grid-column: 3/4;
+    grid-row: 1/2;
+    border-radius: 8px;
+background: #48556A;
+box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.25);
+padding: 26px 32px 32px 32px;
+}
+.Jeanette_Harmon {
+    display: grid;
+    grid-column: 1/2;
+    grid-row: 2/3;
+    border-radius: 8px;
+background: #FFF;
+box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.25);
+padding: 26px 32px;
+}
+.Patrick_Abrams {
+    display: grid;
+    grid-column: 2/4;
+    grid-row: 2/3;
+    border-radius: 8px;
+background: #19202D;
+box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.25);
+padding: 26px 32px;
+}
+.Kira_Whittle  {
+    display: grid;
+    grid-column: 4/5;
+    grid-row: 1/3;
+    border-radius: 8px;
+background: #FFF;
+box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.25);
+padding: 26px 32px;
+}
+.Kira_Whittle h4 {
+    color: #48556A;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.Kira_Whittle p {
+    color: #48556A;
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 18px; /* 138.462% */
+opacity: 0.7;
+}
+.Kira_Whittle h5 {
+    color: #48556A;
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 13px; /* 100% */
+}
+.Kira_Whittle span {
+    color: #48556A;
+font-size: 11px;
+font-style: normal;
+font-weight: 500;
+line-height: 11px; /* 100% */
+}
+
+
+.Jeanette_Harmon h4 {
+    color: #48556A;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.Jeanette_Harmon p {
+    color: #48556A;
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 18px; /* 138.462% */
+opacity: 0.7;
+}
+.Jeanette_Harmon h5 {
+    color: #48556A;
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 13px; /* 100% */
+}
+.Jeanette_Harmon span {
+    color: #48556A;
+font-size: 11px;
+font-style: normal;
+font-weight: 500;
+line-height: 11px; /* 100% */
+}
